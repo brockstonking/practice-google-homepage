@@ -1,0 +1,147 @@
+body {
+    background-color: gray;
+}
+
+.main-header {
+    display: flex;
+    float: right;
+}
+
+.header-tag {
+    padding: 20px;
+    height: 50px;
+    width: 50px;
+    font-family: sans-serif;
+    color: white;
+}
+
+.gmail-images {
+    
+display: flex;
+    
+float: right;
+    
+padding-right: 28px;
+    
+padding-top: 3px;
+}
+.gmail {
+
+}
+
+.images {
+
+}
+
+.me {
+
+border-radius: 50px;
+
+text-align: center;
+
+padding: 0px;
+
+font-size: 43px;
+
+font-family: sans-serif;
+
+color: white;
+
+background-color: #2D3B3D;
+
+margin-top: 3px;
+}
+
+.search-area {
+    
+padding-top: 200px;
+    
+text-align: center;
+}
+
+.google-logo {
+
+color: white;
+
+font-size: 150px;
+}
+
+.search-bar {
+
+background-color: white;
+
+padding: 20px;
+
+margin-top: 15px;
+
+margin-left: 100px;
+
+margin-right: 100px;
+
+border-radius: 86px;
+
+text-align: left;
+
+font-size: 23px;
+
+color: #848469;
+
+font-family: sans-serif;
+}
+
+.links {
+
+}
+
+.link-containers {
+
+display: flex;
+
+margin-left: 25%;
+}
+
+.main-image {
+    
+height: 100px;
+    
+width: 100px;
+    
+background: white;
+    
+margin: 15px;
+    
+background-size: 78px;
+    
+background-repeat: no-repeat;
+    
+background-position: center;
+    
+border-radius: 50px;
+    
+margin-top: 32px;
+}
+
+.image-1 {
+    background-image: url(https://imageog.flaticon.com/icons/png/512/281/281769.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF);
+}
+
+.image-2 {
+    background-image: url(https://image.flaticon.com/icons/svg/25/25231.svg);
+}
+
+.image-3 {
+    background-image: url(https://d1vki863cvir6c.cloudfront.net/uploads/topic/image/95/social_logo.png);
+}
+
+.textbox {
+    
+background: white;
+    
+margin: 15px;
+    
+padding: 8px;
+    
+border-radius: 20px;
+    
+text-align: center;
+}
