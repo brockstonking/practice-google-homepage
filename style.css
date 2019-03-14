@@ -5,6 +5,8 @@ body {
 .main-header {
     display: flex;
     float: right;
+    position: fixed;
+    right: 13px;
 }
 
 .header-tag {
